@@ -10,10 +10,10 @@ This repository demonstrates simple optical illusions and patterns using the old
 
 ## Screenshots 
 
-![Picture 1](./screenshots/Picture1.png)
+![Picture 1](./screenshots/Picture1.jpg)
 
-![Picture 2](./screenshots/Picture2.png)
+![Picture 2](./screenshots/Picture2.jpg)
 
-![Picture 3](./screenshots/Picture3.png)
+![Picture 3](./screenshots/Picture3.jpg)
 
-![Picture 4](./screenshots/Picture4.png)
+![Picture 4](./screenshots/Picture4.jpg)
